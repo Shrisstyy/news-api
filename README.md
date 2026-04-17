@@ -1,6 +1,5 @@
 # news-api
-A real-time news aggregation system built in Python using NewsAPI, showcasing API handling and dynamic data retrieval.
-A Python-based News Search Application that fetches the latest news articles based on user interest using the NewsAPI.
+A real-time news aggregation system that fetches the latest news articles based on user interest using the NewsAPI.
 
 Features:
 
@@ -22,5 +21,16 @@ Before running this project, make sure you have:
 1. Python 3.8+
 2. requests library installed
 3. NewsAPI API Key
+
+Example : 
+What type of news are you interested in today? technology
+
+1. AI is changing the future of tech
+https://example.com/article1
+
+****************************
+
+2. New smartphone launched today
+https://example.com/article2
 
 
